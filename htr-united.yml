@@ -49,7 +49,7 @@ volume:
 - metric: lines
   count: 0
 - metric: regions
-  count: 247
+  count: 206
 transcription-guidelines: SegmOnto guidelines (v. 0.9)
 characters:
   mode: NFD
