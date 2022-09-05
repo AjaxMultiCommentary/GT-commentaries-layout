@@ -11,47 +11,47 @@
 
       <Tags>
           
-              <OtherTag ID="commentary" LABEL="commentary" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:commentary" LABEL="MainZone:commentary" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="primary_text" LABEL="primary_text" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:primaryText" LABEL="MainZone:primaryText" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="preface" LABEL="preface" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:preface" LABEL="MainZone:preface" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="translation" LABEL="translation" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:translation" LABEL="MainZone:translation" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="introduction" LABEL="introduction" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:introduction" LABEL="MainZone:introduction" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_number_text" LABEL="line_number_text" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="NumberingZone:textNumber" LABEL="NumberingZone:textNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_number_commentary" LABEL="line_number_commentary" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="page_number" LABEL="page_number" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="NumberingZone:pageNumber" LABEL="NumberingZone:pageNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="appendix" LABEL="appendix" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:appendix" LABEL="MainZone:appendix" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="app_crit" LABEL="app_crit" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:criticalApparatus" LABEL="MarginTextZone:criticalApparatus" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="bibliography" LABEL="bibliography" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:bibliography" LABEL="MainZone:bibliography" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="footnote" LABEL="footnote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:footnote" LABEL="MarginTextZone:footnote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="index_siglorum" LABEL="index_siglorum" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:index" LABEL="MainZone:index" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="running_header" LABEL="running_header" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="RunningTitleZone" LABEL="RunningTitleZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="table_of_contents" LABEL="table_of_contents" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:ToC" LABEL="MainZone:ToC" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="title" LABEL="title" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="TitlePageZone" LABEL="TitlePageZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="printed_marginalia" LABEL="printed_marginalia" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:printedNote" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="handwritten_marginalia" LABEL="handwritten_marginalia" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:handwrittenNote" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="other" LABEL="other" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="CustomZone" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="undefined" LABEL="undefined" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="CustomZone:undefined" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_region" LABEL="line_region" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -66,84 +66,84 @@
                           <TextBlock ID="r_3903"
                                     HPOS="538" VPOS="474"
                                     WIDTH="90" HEIGHT="65"
-                                    TAGREFS="page_number">
+                                    TAGREFS="NumberingZone:pageNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3904"
                                     HPOS="1710" VPOS="472"
                                     WIDTH="210" HEIGHT="58"
-                                    TAGREFS="running_header">
+                                    TAGREFS="RunningTitleZone">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3905"
                                     HPOS="538" VPOS="4600"
                                     WIDTH="102" HEIGHT="48"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3906"
                                     HPOS="540" VPOS="2276"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3907"
                                     HPOS="540" VPOS="2857"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3908"
                                     HPOS="540" VPOS="3436"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3909"
                                     HPOS="540" VPOS="4019"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3910"
                                     HPOS="542" VPOS="1117"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3911"
                                     HPOS="543" VPOS="1697"
                                     WIDTH="102" HEIGHT="50"
-                                    TAGREFS="line_number_text">
+                                    TAGREFS="NumberingZone:textNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3912"
                                     HPOS="796" VPOS="4468"
                                     WIDTH="129" HEIGHT="89"
-                                    TAGREFS="line_region">
+                                    TAGREFS="">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3913"
                                     HPOS="855" VPOS="636"
                                     WIDTH="2050" HEIGHT="4032"
-                                    TAGREFS="primary_text">
+                                    TAGREFS="MainZone:primaryText">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_3914"
                                     HPOS="541" VPOS="4900"
                                     WIDTH="2559" HEIGHT="145"
-                                    TAGREFS="app_crit">
+                                    TAGREFS="MarginTextZone:criticalApparatus">
                               
                           </TextBlock>
                       

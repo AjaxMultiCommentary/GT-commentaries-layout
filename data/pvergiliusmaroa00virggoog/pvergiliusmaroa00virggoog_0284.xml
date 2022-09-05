@@ -11,47 +11,47 @@
 
       <Tags>
           
-              <OtherTag ID="commentary" LABEL="commentary" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:commentary" LABEL="MainZone:commentary" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="primary_text" LABEL="primary_text" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:primaryText" LABEL="MainZone:primaryText" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="preface" LABEL="preface" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:preface" LABEL="MainZone:preface" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="translation" LABEL="translation" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:translation" LABEL="MainZone:translation" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="introduction" LABEL="introduction" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:introduction" LABEL="MainZone:introduction" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_number_text" LABEL="line_number_text" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="NumberingZone:textNumber" LABEL="NumberingZone:textNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_number_commentary" LABEL="line_number_commentary" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="page_number" LABEL="page_number" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="NumberingZone:pageNumber" LABEL="NumberingZone:pageNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="appendix" LABEL="appendix" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:appendix" LABEL="MainZone:appendix" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="app_crit" LABEL="app_crit" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:criticalApparatus" LABEL="MarginTextZone:criticalApparatus" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="bibliography" LABEL="bibliography" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:bibliography" LABEL="MainZone:bibliography" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="footnote" LABEL="footnote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:footnote" LABEL="MarginTextZone:footnote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="index_siglorum" LABEL="index_siglorum" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:index" LABEL="MainZone:index" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="running_header" LABEL="running_header" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="RunningTitleZone" LABEL="RunningTitleZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="table_of_contents" LABEL="table_of_contents" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MainZone:ToC" LABEL="MainZone:ToC" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="title" LABEL="title" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="TitlePageZone" LABEL="TitlePageZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="printed_marginalia" LABEL="printed_marginalia" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:printedNote" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="handwritten_marginalia" LABEL="handwritten_marginalia" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="MarginTextZone:handwrittenNote" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="other" LABEL="other" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="CustomZone" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="undefined" LABEL="undefined" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="CustomZone:undefined" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="line_region" LABEL="line_region" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -66,21 +66,21 @@
                           <TextBlock ID="r_11883"
                                     HPOS="1536" VPOS="543"
                                     WIDTH="399" HEIGHT="57"
-                                    TAGREFS="running_header">
+                                    TAGREFS="RunningTitleZone">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_11884"
                                     HPOS="2880" VPOS="545"
                                     WIDTH="127" HEIGHT="64"
-                                    TAGREFS="page_number">
+                                    TAGREFS="NumberingZone:pageNumber">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_11885"
                                     HPOS="454" VPOS="713"
                                     WIDTH="2573" HEIGHT="4386"
-                                    TAGREFS="commentary">
+                                    TAGREFS="MainZone:commentary">
                               
                           </TextBlock>
                       
