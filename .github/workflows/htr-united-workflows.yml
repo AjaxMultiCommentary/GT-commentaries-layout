@@ -71,4 +71,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format alto --check-empty --segmonto --xsd ./data/**/*.xml
+          htrvx --verbose --group --format alto --segmonto --xsd ./data/**/*.xml
