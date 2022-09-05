@@ -1,0 +1,93 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+          <MeasurementUnit>pixel</MeasurementUnit>
+          <sourceImageInformation>
+              <fileName>pvergiliusmaroa00virggoog_0073.png</fileName>
+          </sourceImageInformation>
+      </Description>
+
+      <Tags>
+          
+              <OtherTag ID="commentary" LABEL="commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="primary_text" LABEL="primary_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="preface" LABEL="preface" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="translation" LABEL="translation" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="introduction" LABEL="introduction" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_text" LABEL="line_number_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_commentary" LABEL="line_number_commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="page_number" LABEL="page_number" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="appendix" LABEL="appendix" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="app_crit" LABEL="app_crit" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="bibliography" LABEL="bibliography" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="footnote" LABEL="footnote" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="index_siglorum" LABEL="index_siglorum" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="running_header" LABEL="running_header" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="table_of_contents" LABEL="table_of_contents" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="title" LABEL="title" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="printed_marginalia" LABEL="printed_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="handwritten_marginalia" LABEL="handwritten_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="other" LABEL="other" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="undefined" LABEL="undefined" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_region" LABEL="line_region" DESCRIPTION="Dummy description"/>
+          
+      </Tags>
+
+      <Layout>
+          <Page WIDTH="3660"
+                HEIGHT="5693"
+                ID="pvergiliusmaroa00virggoog_0073"
+                PHYSICAL_IMG_NR="0073">
+              <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
+                  
+                      
+                          <TextBlock ID="r_2625"
+                                    HPOS="1488" VPOS="454"
+                                    WIDTH="542" HEIGHT="70"
+                                    TAGREFS="running_header">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2626"
+                                    HPOS="2956" VPOS="469"
+                                    WIDTH="88" HEIGHT="66"
+                                    TAGREFS="page_number">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2627"
+                                    HPOS="789" VPOS="630"
+                                    WIDTH="2186" HEIGHT="4406"
+                                    TAGREFS="translation">
+                              
+                          </TextBlock>
+                      
+                  
+              </PrintSpace>
+          </Page>
+      </Layout>
+  </alto>
+  

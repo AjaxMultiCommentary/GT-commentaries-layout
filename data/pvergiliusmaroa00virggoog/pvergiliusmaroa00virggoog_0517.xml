@@ -1,0 +1,114 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+          <MeasurementUnit>pixel</MeasurementUnit>
+          <sourceImageInformation>
+              <fileName>pvergiliusmaroa00virggoog_0517.png</fileName>
+          </sourceImageInformation>
+      </Description>
+
+      <Tags>
+          
+              <OtherTag ID="commentary" LABEL="commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="primary_text" LABEL="primary_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="preface" LABEL="preface" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="translation" LABEL="translation" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="introduction" LABEL="introduction" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_text" LABEL="line_number_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_commentary" LABEL="line_number_commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="page_number" LABEL="page_number" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="appendix" LABEL="appendix" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="app_crit" LABEL="app_crit" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="bibliography" LABEL="bibliography" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="footnote" LABEL="footnote" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="index_siglorum" LABEL="index_siglorum" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="running_header" LABEL="running_header" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="table_of_contents" LABEL="table_of_contents" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="title" LABEL="title" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="printed_marginalia" LABEL="printed_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="handwritten_marginalia" LABEL="handwritten_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="other" LABEL="other" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="undefined" LABEL="undefined" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_region" LABEL="line_region" DESCRIPTION="Dummy description"/>
+          
+      </Tags>
+
+      <Layout>
+          <Page WIDTH="3660"
+                HEIGHT="5693"
+                ID="pvergiliusmaroa00virggoog_0517"
+                PHYSICAL_IMG_NR="0517">
+              <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
+                  
+                      
+                          <TextBlock ID="r_23180"
+                                    HPOS="1612" VPOS="510"
+                                    WIDTH="373" HEIGHT="57"
+                                    TAGREFS="running_header">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_23181"
+                                    HPOS="2940" VPOS="507"
+                                    WIDTH="129" HEIGHT="65"
+                                    TAGREFS="page_number">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_23182"
+                                    HPOS="522" VPOS="674"
+                                    WIDTH="1022" HEIGHT="4328"
+                                    TAGREFS="index_siglorum">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_23183"
+                                    HPOS="1853" VPOS="669"
+                                    WIDTH="1052" HEIGHT="4330"
+                                    TAGREFS="index_siglorum">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_23184"
+                                    HPOS="628" VPOS="5046"
+                                    WIDTH="873" HEIGHT="53"
+                                    TAGREFS="other">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_23185"
+                                    HPOS="2574" VPOS="5037"
+                                    WIDTH="62" HEIGHT="49"
+                                    TAGREFS="other">
+                              
+                          </TextBlock>
+                      
+                  
+              </PrintSpace>
+          </Page>
+      </Layout>
+  </alto>
+  

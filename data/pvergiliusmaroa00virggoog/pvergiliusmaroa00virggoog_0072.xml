@@ -1,0 +1,149 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+          <MeasurementUnit>pixel</MeasurementUnit>
+          <sourceImageInformation>
+              <fileName>pvergiliusmaroa00virggoog_0072.png</fileName>
+          </sourceImageInformation>
+      </Description>
+
+      <Tags>
+          
+              <OtherTag ID="commentary" LABEL="commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="primary_text" LABEL="primary_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="preface" LABEL="preface" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="translation" LABEL="translation" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="introduction" LABEL="introduction" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_text" LABEL="line_number_text" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_number_commentary" LABEL="line_number_commentary" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="page_number" LABEL="page_number" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="appendix" LABEL="appendix" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="app_crit" LABEL="app_crit" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="bibliography" LABEL="bibliography" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="footnote" LABEL="footnote" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="index_siglorum" LABEL="index_siglorum" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="running_header" LABEL="running_header" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="table_of_contents" LABEL="table_of_contents" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="title" LABEL="title" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="printed_marginalia" LABEL="printed_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="handwritten_marginalia" LABEL="handwritten_marginalia" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="other" LABEL="other" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="undefined" LABEL="undefined" DESCRIPTION="Dummy description"/>
+          
+              <OtherTag ID="line_region" LABEL="line_region" DESCRIPTION="Dummy description"/>
+          
+      </Tags>
+
+      <Layout>
+          <Page WIDTH="3660"
+                HEIGHT="5693"
+                ID="pvergiliusmaroa00virggoog_0072"
+                PHYSICAL_IMG_NR="0072">
+              <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
+                  
+                      
+                          <TextBlock ID="r_2614"
+                                    HPOS="534" VPOS="478"
+                                    WIDTH="89" HEIGHT="65"
+                                    TAGREFS="page_number">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2615"
+                                    HPOS="1708" VPOS="474"
+                                    WIDTH="210" HEIGHT="57"
+                                    TAGREFS="running_header">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2616"
+                                    HPOS="534" VPOS="775"
+                                    WIDTH="67" HEIGHT="48"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2617"
+                                    HPOS="538" VPOS="1355"
+                                    WIDTH="67" HEIGHT="47"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2618"
+                                    HPOS="540" VPOS="1933"
+                                    WIDTH="67" HEIGHT="48"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2619"
+                                    HPOS="544" VPOS="2515"
+                                    WIDTH="67" HEIGHT="48"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2620"
+                                    HPOS="547" VPOS="3095"
+                                    WIDTH="64" HEIGHT="47"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2621"
+                                    HPOS="547" VPOS="3674"
+                                    WIDTH="67" HEIGHT="48"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2622"
+                                    HPOS="547" VPOS="4254"
+                                    WIDTH="68" HEIGHT="49"
+                                    TAGREFS="line_number_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2623"
+                                    HPOS="852" VPOS="639"
+                                    WIDTH="2029" HEIGHT="3922"
+                                    TAGREFS="primary_text">
+                              
+                          </TextBlock>
+                      
+                          <TextBlock ID="r_2624"
+                                    HPOS="691" VPOS="4971"
+                                    WIDTH="2252" HEIGHT="80"
+                                    TAGREFS="app_crit">
+                              
+                          </TextBlock>
+                      
+                  
+              </PrintSpace>
+          </Page>
+      </Layout>
+  </alto>
+  
