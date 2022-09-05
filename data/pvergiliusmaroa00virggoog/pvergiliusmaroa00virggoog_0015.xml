@@ -11,45 +11,45 @@
 
       <Tags>
           
-              <OtherTag ID="MainZone:commentary" LABEL="MainZone:commentary" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt01" LABEL="MainZone:commentary" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:primaryText" LABEL="MainZone:primaryText" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt02" LABEL="MainZone:primaryText" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:preface" LABEL="MainZone:preface" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt03" LABEL="MainZone:preface" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:translation" LABEL="MainZone:translation" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt04" LABEL="MainZone:translation" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:introduction" LABEL="MainZone:introduction" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt05" LABEL="MainZone:introduction" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="NumberingZone:textNumber" LABEL="NumberingZone:textNumber" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt06" LABEL="NumberingZone:textNumber" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="NumberingZone:pageNumber" LABEL="NumberingZone:pageNumber" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt07" LABEL="NumberingZone:pageNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:appendix" LABEL="MainZone:appendix" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt08" LABEL="MainZone:appendix" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MarginTextZone:criticalApparatus" LABEL="MarginTextZone:criticalApparatus" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt09" LABEL="MarginTextZone:criticalApparatus" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:bibliography" LABEL="MainZone:bibliography" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt10" LABEL="MainZone:bibliography" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MarginTextZone:footnote" LABEL="MarginTextZone:footnote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt11" LABEL="MarginTextZone:footnote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:index" LABEL="MainZone:index" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt12" LABEL="MainZone:index" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="RunningTitleZone" LABEL="RunningTitleZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt13" LABEL="RunningTitleZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MainZone:ToC" LABEL="MainZone:ToC" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt14" LABEL="MainZone:ToC" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="TitlePageZone" LABEL="TitlePageZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt15" LABEL="TitlePageZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MarginTextZone:printedNote" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt15" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="MarginTextZone:handwrittenNote" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt16" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="CustomZone" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt17" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="CustomZone:undefined" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt18" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
           
@@ -66,21 +66,21 @@
                           <TextBlock ID="r_131"
                                     HPOS="1604" VPOS="483"
                                     WIDTH="366" HEIGHT="57"
-                                    TAGREFS="RunningTitleZone">
+                                    TAGREFS="rt13">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_132"
                                     HPOS="2962" VPOS="483"
                                     WIDTH="105" HEIGHT="56"
-                                    TAGREFS="NumberingZone:pageNumber">
+                                    TAGREFS="rt07">
                               
                           </TextBlock>
                       
                           <TextBlock ID="r_133"
                                     HPOS="511" VPOS="648"
                                     WIDTH="2564" HEIGHT="4372"
-                                    TAGREFS="MainZone:preface">
+                                    TAGREFS="rt03">
                               
                           </TextBlock>
                       
