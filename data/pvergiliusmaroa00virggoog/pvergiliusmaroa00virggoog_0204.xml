@@ -23,8 +23,6 @@
           
               <OtherTag ID="rt06" LABEL="NumberingZone:textNumber" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
-          
               <OtherTag ID="rt07" LABEL="NumberingZone:pageNumber" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="rt08" LABEL="MainZone:appendix" DESCRIPTION="Dummy description"/>
@@ -43,15 +41,15 @@
           
               <OtherTag ID="rt15" LABEL="TitlePageZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt15" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt16" LABEL="MarginTextZone:printedNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt16" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt17" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt17" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt18" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt18" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="" LABEL="" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt20" LABEL="DefaultLine" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -80,7 +78,7 @@
                           <TextBlock ID="r_8058"
                                     HPOS="452" VPOS="3152"
                                     WIDTH="13" HEIGHT="5"
-                                    TAGREFS="">
+                                    TAGREFS="rt20">
                               
                           </TextBlock>
                       
