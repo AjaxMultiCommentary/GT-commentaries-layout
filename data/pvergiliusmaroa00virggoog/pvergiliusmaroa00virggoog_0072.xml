@@ -49,7 +49,7 @@
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt20" LABEL="DefaultLine" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt20" LABEL="CustomZone:line_region" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -61,81 +61,103 @@
               <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
                   
                       
+                        
                           <TextBlock ID="r_2614"
                                     HPOS="534" VPOS="478"
                                     WIDTH="89" HEIGHT="65"
                                     TAGREFS="rt07">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2615"
                                     HPOS="1708" VPOS="474"
                                     WIDTH="210" HEIGHT="57"
                                     TAGREFS="rt13">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2616"
                                     HPOS="534" VPOS="775"
                                     WIDTH="67" HEIGHT="48"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2617"
                                     HPOS="538" VPOS="1355"
                                     WIDTH="67" HEIGHT="47"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2618"
                                     HPOS="540" VPOS="1933"
                                     WIDTH="67" HEIGHT="48"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2619"
                                     HPOS="544" VPOS="2515"
                                     WIDTH="67" HEIGHT="48"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2620"
                                     HPOS="547" VPOS="3095"
                                     WIDTH="64" HEIGHT="47"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2621"
                                     HPOS="547" VPOS="3674"
                                     WIDTH="67" HEIGHT="48"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2622"
                                     HPOS="547" VPOS="4254"
                                     WIDTH="68" HEIGHT="49"
                                     TAGREFS="rt06">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2623"
                                     HPOS="852" VPOS="639"
                                     WIDTH="2029" HEIGHT="3922"
                                     TAGREFS="rt02">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_2624"
                                     HPOS="691" VPOS="4971"
                                     WIDTH="2252" HEIGHT="80"
                                     TAGREFS="rt09">
                               
+                            
                           </TextBlock>
                       
                   

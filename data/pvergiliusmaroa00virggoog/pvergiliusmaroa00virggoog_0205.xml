@@ -49,7 +49,7 @@
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt20" LABEL="DefaultLine" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt20" LABEL="CustomZone:line_region" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -61,39 +61,37 @@
               <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
                   
                       
+                        
                           <TextBlock ID="r_8060"
                                     HPOS="672" VPOS="490"
                                     WIDTH="126" HEIGHT="68"
                                     TAGREFS="rt07">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_8061"
                                     HPOS="1712" VPOS="488"
                                     WIDTH="472" HEIGHT="59"
                                     TAGREFS="rt13">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_8062"
                                     HPOS="657" VPOS="660"
                                     WIDTH="2574" HEIGHT="4379"
                                     TAGREFS="rt01">
                               
+                            
                           </TextBlock>
                       
-                          <TextBlock ID="r_8063"
-                                    HPOS="234" VPOS="5440"
-                                    WIDTH="19" HEIGHT="61"
-                                    TAGREFS="rt20">
-                              
+                        
                           </TextBlock>
                       
-                          <TextBlock ID="r_8064"
-                                    HPOS="3175" VPOS="5202"
-                                    WIDTH="111" HEIGHT="300"
-                                    TAGREFS="rt20">
-                              
+                        
                           </TextBlock>
                       
                   

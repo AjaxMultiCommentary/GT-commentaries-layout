@@ -49,7 +49,7 @@
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt20" LABEL="DefaultLine" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt20" LABEL="CustomZone:line_region" DESCRIPTION="Dummy description"/>
           
       </Tags>
 
@@ -61,32 +61,40 @@
               <PrintSpace HPOS="0" VPOS="0" WIDTH="3660" HEIGHT="5693">
                   
                       
+                        
                           <TextBlock ID="r_20287"
                                     HPOS="601" VPOS="500"
                                     WIDTH="135" HEIGHT="65"
                                     TAGREFS="rt07">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_20288"
                                     HPOS="1653" VPOS="500"
                                     WIDTH="438" HEIGHT="59"
                                     TAGREFS="rt13">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_20289"
                                     HPOS="594" VPOS="669"
                                     WIDTH="2588" HEIGHT="3473"
                                     TAGREFS="rt08">
                               
+                            
                           </TextBlock>
                       
+                        
                           <TextBlock ID="r_20290"
                                     HPOS="590" VPOS="4251"
                                     WIDTH="2574" HEIGHT="790"
                                     TAGREFS="rt11">
                               
+                            
                           </TextBlock>
                       
                   
