@@ -45,7 +45,7 @@
           
               <OtherTag ID="rt17" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt18" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt18" LABEL="CustomZone:other" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
@@ -67,8 +67,8 @@
                                     WIDTH="126" HEIGHT="68"
                                     TAGREFS="rt07">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_8061"
@@ -76,8 +76,8 @@
                                     WIDTH="472" HEIGHT="59"
                                     TAGREFS="rt13">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_8062"
@@ -85,14 +85,12 @@
                                     WIDTH="2574" HEIGHT="4379"
                                     TAGREFS="rt01">
                               
-                            
                           </TextBlock>
+                        
                       
                         
-                          </TextBlock>
                       
                         
-                          </TextBlock>
                       
                   
               </PrintSpace>

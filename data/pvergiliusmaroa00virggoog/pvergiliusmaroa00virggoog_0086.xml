@@ -45,7 +45,7 @@
           
               <OtherTag ID="rt17" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt18" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt18" LABEL="CustomZone:other" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
@@ -67,8 +67,8 @@
                                     WIDTH="88" HEIGHT="66"
                                     TAGREFS="rt07">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2856"
@@ -76,8 +76,8 @@
                                     WIDTH="210" HEIGHT="58"
                                     TAGREFS="rt13">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2857"
@@ -85,8 +85,8 @@
                                     WIDTH="104" HEIGHT="48"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2858"
@@ -94,8 +94,8 @@
                                     WIDTH="103" HEIGHT="50"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2859"
@@ -103,8 +103,8 @@
                                     WIDTH="103" HEIGHT="49"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2860"
@@ -112,8 +112,8 @@
                                     WIDTH="104" HEIGHT="48"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2861"
@@ -121,8 +121,8 @@
                                     WIDTH="104" HEIGHT="50"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2862"
@@ -130,8 +130,8 @@
                                     WIDTH="105" HEIGHT="48"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2863"
@@ -139,8 +139,8 @@
                                     WIDTH="104" HEIGHT="50"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2864"
@@ -148,8 +148,8 @@
                                     WIDTH="105" HEIGHT="48"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2865"
@@ -157,8 +157,8 @@
                                     WIDTH="2071" HEIGHT="4158"
                                     TAGREFS="rt02">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2866"
@@ -166,8 +166,8 @@
                                     WIDTH="1712" HEIGHT="70"
                                     TAGREFS="rt09">
                               
-                            
                           </TextBlock>
+                        
                       
                   
               </PrintSpace>

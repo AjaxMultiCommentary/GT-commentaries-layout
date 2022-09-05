@@ -45,7 +45,7 @@
           
               <OtherTag ID="rt17" LABEL="MarginTextZone:handwrittenNote" DESCRIPTION="Dummy description"/>
           
-              <OtherTag ID="rt18" LABEL="CustomZone" DESCRIPTION="Dummy description"/>
+              <OtherTag ID="rt18" LABEL="CustomZone:other" DESCRIPTION="Dummy description"/>
           
               <OtherTag ID="rt19" LABEL="CustomZone:undefined" DESCRIPTION="Dummy description"/>
           
@@ -67,8 +67,8 @@
                                     WIDTH="87" HEIGHT="65"
                                     TAGREFS="rt07">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2801"
@@ -76,8 +76,8 @@
                                     WIDTH="211" HEIGHT="56"
                                     TAGREFS="rt13">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2802"
@@ -85,8 +85,8 @@
                                     WIDTH="103" HEIGHT="49"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2803"
@@ -94,8 +94,8 @@
                                     WIDTH="106" HEIGHT="49"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2804"
@@ -103,8 +103,8 @@
                                     WIDTH="105" HEIGHT="50"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2805"
@@ -112,11 +112,10 @@
                                     WIDTH="103" HEIGHT="49"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
-                          </TextBlock>
                       
                         
                           <TextBlock ID="r_2807"
@@ -124,8 +123,8 @@
                                     WIDTH="105" HEIGHT="48"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2808"
@@ -133,8 +132,8 @@
                                     WIDTH="104" HEIGHT="49"
                                     TAGREFS="rt06">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2809"
@@ -142,8 +141,8 @@
                                     WIDTH="2214" HEIGHT="3577"
                                     TAGREFS="rt02">
                               
-                            
                           </TextBlock>
+                        
                       
                         
                           <TextBlock ID="r_2810"
@@ -151,8 +150,8 @@
                                     WIDTH="2558" HEIGHT="130"
                                     TAGREFS="rt09">
                               
-                            
                           </TextBlock>
+                        
                       
                   
               </PrintSpace>
