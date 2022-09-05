@@ -41,4 +41,7 @@ license:
   - name: CC-BY 4.0
     url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
+volume:
+  - metric: regions
+    count: 1000
 transcription-guidelines: SegmOnto guidelines (v. 0.9)
