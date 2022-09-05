@@ -2,34 +2,34 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: GT4HistCommentOLR
 url: https://github.com/AjaxMultiCommentary/GT-commentaries-OLR
 authors:
-  - name: Romanello
-    surname: Matteo
-    orcid: 0000-0002-7406-6286
-    roles:
-      - project-manager
-  - name: Najem-Meyer
-    surname: Sven
-    orcid: 0000-0002-3661-4579
-    roles:
-      - transcriber
-      - quality-control
-  - name: Amaya
-    surname: Carla
-    roles:
-      - transcriber
+- name: Romanello
+  surname: Matteo
+  orcid: 0000-0002-7406-6286
+  roles:
+  - project-manager
+- name: Najem-Meyer
+  surname: Sven
+  orcid: 0000-0002-3661-4579
+  roles:
+  - transcriber
+  - quality-control
+- name: Amaya
+  surname: Carla
+  roles:
+  - transcriber
 institutions: []
 description: TODO
 project-name: Ajax Multi-Commentary
 language:
-  - eng
-  - deu
-  - ita
-  - fra
-  - lat
+- eng
+- deu
+- ita
+- fra
+- lat
 production-software: Kraken + VIA
 script:
-  - iso: Latn
-  - iso: Grek
+- iso: Latn
+- iso: Grek
 script-type: only-typed
 time:
   notBefore: '1800'
@@ -38,10 +38,19 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: regions
-    count: 1000
+- metric: characters
+  count: 0
+- metric: files
+  count: 40
+- metric: lines
+  count: 0
+- metric: regions
+  count: 247
 transcription-guidelines: SegmOnto guidelines (v. 0.9)
+characters:
+  mode: NFD
+  members: []
