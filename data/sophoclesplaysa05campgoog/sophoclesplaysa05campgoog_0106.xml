@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+ <Description>
+  <MeasurementUnit>
+   pixel
+  </MeasurementUnit>
+  <sourceImageInformation>
+   <fileName>
+    sophoclesplaysa05campgoog_0106.png
+   </fileName>
+  </sourceImageInformation>
+ </Description>
+ <Tags>
+  <OtherTag DESCRIPTION="block type BT01" ID="BT01" LABEL="MainZone:commentary"/>
+  <OtherTag DESCRIPTION="block type BT02" ID="BT02" LABEL="MainZone:primaryText"/>
+  <OtherTag DESCRIPTION="block type BT03" ID="BT03" LABEL="MainZone:preface"/>
+  <OtherTag DESCRIPTION="block type BT04" ID="BT04" LABEL="MainZone:translation"/>
+  <OtherTag DESCRIPTION="block type BT05" ID="BT05" LABEL="MainZone:introduction"/>
+  <OtherTag DESCRIPTION="block type BT06" ID="BT06" LABEL="NumberingZone:textNumber"/>
+  <OtherTag DESCRIPTION="block type BT07" ID="BT07" LABEL="NumberingZone:pageNumber"/>
+  <OtherTag DESCRIPTION="block type BT08" ID="BT08" LABEL="MainZone:appendix"/>
+  <OtherTag DESCRIPTION="block type BT09" ID="BT09" LABEL="MarginTextZone:criticalApparatus"/>
+  <OtherTag DESCRIPTION="block type BT10" ID="BT10" LABEL="MainZone:bibliography"/>
+  <OtherTag DESCRIPTION="block type BT11" ID="BT11" LABEL="MarginTextZone:footnote"/>
+  <OtherTag DESCRIPTION="block type BT12" ID="BT12" LABEL="MainZone:index"/>
+  <OtherTag DESCRIPTION="block type BT13" ID="BT13" LABEL="RunningTitleZone"/>
+  <OtherTag DESCRIPTION="block type BT14" ID="BT14" LABEL="MainZone:ToC"/>
+  <OtherTag DESCRIPTION="block type BT15" ID="BT15" LABEL="TitlePageZone"/>
+  <OtherTag DESCRIPTION="block type BT16" ID="BT16" LABEL="MarginTextZone:printedNote"/>
+  <OtherTag DESCRIPTION="block type BT17" ID="BT17" LABEL="MarginTextZone:handwrittenNote"/>
+  <OtherTag DESCRIPTION="block type BT18" ID="BT18" LABEL="CustomZone:other"/>
+  <OtherTag DESCRIPTION="block type BT19" ID="BT19" LABEL="CustomZone:undefined"/>
+  <OtherTag DESCRIPTION="block type BT20" ID="BT20" LABEL="CustomZone:line_region"/>
+ </Tags>
+ <Layout>
+  <Page HEIGHT="5025" ID="sophoclesplaysa05campgoog_0106" PHYSICAL_IMG_NR="0106" WIDTH="3031">
+   <PrintSpace HEIGHT="5025" HPOS="0" VPOS="0" WIDTH="3031">
+    <TextBlock HEIGHT="49" HPOS="329" ID="r_2934" TAGREFS="BT07" VPOS="396" WIDTH="79">
+    </TextBlock>
+    <TextBlock HEIGHT="69" HPOS="1228" ID="r_2935" TAGREFS="BT13" VPOS="377" WIDTH="604">
+    </TextBlock>
+    <TextBlock HEIGHT="1412" HPOS="330" ID="r_2936" TAGREFS="BT02" VPOS="539" WIDTH="1984">
+    </TextBlock>
+    <TextBlock HEIGHT="107" HPOS="2645" ID="r_2937" TAGREFS="BT06" VPOS="629" WIDTH="92">
+    </TextBlock>
+    <TextBlock HEIGHT="71" HPOS="2646" ID="r_2939" TAGREFS="BT06" VPOS="1652" WIDTH="95">
+    </TextBlock>
+    <TextBlock HEIGHT="35" HPOS="1663" ID="r_2940" TAGREFS="BT17" VPOS="1949" WIDTH="118">
+    </TextBlock>
+    <TextBlock HEIGHT="524" HPOS="333" ID="r_2941" TAGREFS="BT09" VPOS="1998" WIDTH="2417">
+    </TextBlock>
+    <TextBlock HEIGHT="1891" HPOS="339" ID="r_2944" TAGREFS="BT01" VPOS="2618" WIDTH="1165">
+    </TextBlock>
+    <TextBlock HEIGHT="1887" HPOS="1594" ID="r_2945" TAGREFS="BT01" VPOS="2620" WIDTH="1163">
+    </TextBlock>
+   </PrintSpace>
+  </Page>
+ </Layout>
+</alto>

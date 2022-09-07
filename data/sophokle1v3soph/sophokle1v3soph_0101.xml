@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+ <Description>
+  <MeasurementUnit>
+   pixel
+  </MeasurementUnit>
+  <sourceImageInformation>
+   <fileName>
+    sophokle1v3soph_0101.png
+   </fileName>
+  </sourceImageInformation>
+ </Description>
+ <Tags>
+  <OtherTag DESCRIPTION="block type BT01" ID="BT01" LABEL="MainZone:commentary"/>
+  <OtherTag DESCRIPTION="block type BT02" ID="BT02" LABEL="MainZone:primaryText"/>
+  <OtherTag DESCRIPTION="block type BT03" ID="BT03" LABEL="MainZone:preface"/>
+  <OtherTag DESCRIPTION="block type BT04" ID="BT04" LABEL="MainZone:translation"/>
+  <OtherTag DESCRIPTION="block type BT05" ID="BT05" LABEL="MainZone:introduction"/>
+  <OtherTag DESCRIPTION="block type BT06" ID="BT06" LABEL="NumberingZone:textNumber"/>
+  <OtherTag DESCRIPTION="block type BT07" ID="BT07" LABEL="NumberingZone:pageNumber"/>
+  <OtherTag DESCRIPTION="block type BT08" ID="BT08" LABEL="MainZone:appendix"/>
+  <OtherTag DESCRIPTION="block type BT09" ID="BT09" LABEL="MarginTextZone:criticalApparatus"/>
+  <OtherTag DESCRIPTION="block type BT10" ID="BT10" LABEL="MainZone:bibliography"/>
+  <OtherTag DESCRIPTION="block type BT11" ID="BT11" LABEL="MarginTextZone:footnote"/>
+  <OtherTag DESCRIPTION="block type BT12" ID="BT12" LABEL="MainZone:index"/>
+  <OtherTag DESCRIPTION="block type BT13" ID="BT13" LABEL="RunningTitleZone"/>
+  <OtherTag DESCRIPTION="block type BT14" ID="BT14" LABEL="MainZone:ToC"/>
+  <OtherTag DESCRIPTION="block type BT15" ID="BT15" LABEL="TitlePageZone"/>
+  <OtherTag DESCRIPTION="block type BT16" ID="BT16" LABEL="MarginTextZone:printedNote"/>
+  <OtherTag DESCRIPTION="block type BT17" ID="BT17" LABEL="MarginTextZone:handwrittenNote"/>
+  <OtherTag DESCRIPTION="block type BT18" ID="BT18" LABEL="CustomZone:other"/>
+  <OtherTag DESCRIPTION="block type BT19" ID="BT19" LABEL="CustomZone:undefined"/>
+  <OtherTag DESCRIPTION="block type BT20" ID="BT20" LABEL="CustomZone:line_region"/>
+ </Tags>
+ <Layout>
+  <Page HEIGHT="3696" ID="sophokle1v3soph_0101" PHYSICAL_IMG_NR="0101" WIDTH="2140">
+   <PrintSpace HEIGHT="3696" HPOS="0" VPOS="0" WIDTH="2140">
+    <TextBlock HEIGHT="53" HPOS="1803" ID="r_1769" TAGREFS="BT07" VPOS="232" WIDTH="68">
+    </TextBlock>
+    <TextBlock HEIGHT="1675" HPOS="67" ID="r_1770" TAGREFS="BT02" VPOS="381" WIDTH="1413">
+    </TextBlock>
+    <TextBlock HEIGHT="1259" HPOS="68" ID="r_1771" TAGREFS="BT01" VPOS="2108" WIDTH="866">
+    </TextBlock>
+    <TextBlock HEIGHT="1245" HPOS="1001" ID="r_1772" TAGREFS="BT01" VPOS="2112" WIDTH="877">
+    </TextBlock>
+   </PrintSpace>
+  </Page>
+ </Layout>
+</alto>

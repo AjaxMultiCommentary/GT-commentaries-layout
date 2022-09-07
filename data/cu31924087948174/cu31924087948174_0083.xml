@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+ <Description>
+  <MeasurementUnit>
+   pixel
+  </MeasurementUnit>
+  <sourceImageInformation>
+   <fileName>
+    cu31924087948174_0083.png
+   </fileName>
+  </sourceImageInformation>
+ </Description>
+ <Tags>
+  <OtherTag DESCRIPTION="block type BT01" ID="BT01" LABEL="MainZone:commentary"/>
+  <OtherTag DESCRIPTION="block type BT02" ID="BT02" LABEL="MainZone:primaryText"/>
+  <OtherTag DESCRIPTION="block type BT03" ID="BT03" LABEL="MainZone:preface"/>
+  <OtherTag DESCRIPTION="block type BT04" ID="BT04" LABEL="MainZone:translation"/>
+  <OtherTag DESCRIPTION="block type BT05" ID="BT05" LABEL="MainZone:introduction"/>
+  <OtherTag DESCRIPTION="block type BT06" ID="BT06" LABEL="NumberingZone:textNumber"/>
+  <OtherTag DESCRIPTION="block type BT07" ID="BT07" LABEL="NumberingZone:pageNumber"/>
+  <OtherTag DESCRIPTION="block type BT08" ID="BT08" LABEL="MainZone:appendix"/>
+  <OtherTag DESCRIPTION="block type BT09" ID="BT09" LABEL="MarginTextZone:criticalApparatus"/>
+  <OtherTag DESCRIPTION="block type BT10" ID="BT10" LABEL="MainZone:bibliography"/>
+  <OtherTag DESCRIPTION="block type BT11" ID="BT11" LABEL="MarginTextZone:footnote"/>
+  <OtherTag DESCRIPTION="block type BT12" ID="BT12" LABEL="MainZone:index"/>
+  <OtherTag DESCRIPTION="block type BT13" ID="BT13" LABEL="RunningTitleZone"/>
+  <OtherTag DESCRIPTION="block type BT14" ID="BT14" LABEL="MainZone:ToC"/>
+  <OtherTag DESCRIPTION="block type BT15" ID="BT15" LABEL="TitlePageZone"/>
+  <OtherTag DESCRIPTION="block type BT16" ID="BT16" LABEL="MarginTextZone:printedNote"/>
+  <OtherTag DESCRIPTION="block type BT17" ID="BT17" LABEL="MarginTextZone:handwrittenNote"/>
+  <OtherTag DESCRIPTION="block type BT18" ID="BT18" LABEL="CustomZone:other"/>
+  <OtherTag DESCRIPTION="block type BT19" ID="BT19" LABEL="CustomZone:undefined"/>
+  <OtherTag DESCRIPTION="block type BT20" ID="BT20" LABEL="CustomZone:line_region"/>
+ </Tags>
+ <Layout>
+  <Page HEIGHT="2393" ID="cu31924087948174_0083" PHYSICAL_IMG_NR="0083" WIDTH="1391">
+   <PrintSpace HEIGHT="2393" HPOS="0" VPOS="0" WIDTH="1391">
+    <TextBlock HEIGHT="35" HPOS="111" ID="r_1797" TAGREFS="BT07" VPOS="105" WIDTH="46">
+    </TextBlock>
+    <TextBlock HEIGHT="41" HPOS="525" ID="r_1798" TAGREFS="BT13" VPOS="86" WIDTH="322">
+    </TextBlock>
+    <TextBlock HEIGHT="894" HPOS="111" ID="r_1799" TAGREFS="BT02" VPOS="190" WIDTH="937">
+    </TextBlock>
+    <TextBlock HEIGHT="33" HPOS="1213" ID="r_1800" TAGREFS="BT06" VPOS="303" WIDTH="58">
+    </TextBlock>
+    <TextBlock HEIGHT="36" HPOS="1217" ID="r_1801" TAGREFS="BT06" VPOS="626" WIDTH="56">
+    </TextBlock>
+    <TextBlock HEIGHT="28" HPOS="1218" ID="r_1802" TAGREFS="BT06" VPOS="930" WIDTH="56">
+    </TextBlock>
+    <TextBlock HEIGHT="95" HPOS="119" ID="r_1803" TAGREFS="BT09" VPOS="1142" WIDTH="1020">
+    </TextBlock>
+    <TextBlock HEIGHT="30" HPOS="1169" ID="r_1804" TAGREFS="BT16" VPOS="1142" WIDTH="107">
+    </TextBlock>
+    <TextBlock HEIGHT="887" HPOS="120" ID="r_1805" TAGREFS="BT01" VPOS="1301" WIDTH="563">
+    </TextBlock>
+    <TextBlock HEIGHT="893" HPOS="724" ID="r_1806" TAGREFS="BT01" VPOS="1299" WIDTH="565">
+    </TextBlock>
+   </PrintSpace>
+  </Page>
+ </Layout>
+</alto>
