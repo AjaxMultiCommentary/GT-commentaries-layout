@@ -8,7 +8,7 @@ This dataset contains layout annotations for ca. 370 pages sampled from 8 public
 
 An example of annotated commentary page is shown in the image below. Pages were annotated according to a taxonomy mapped to the [SegmOnto](https://segmonto.github.io/) controlled vocabulary.
 
-![](layout_regions.png)
+<img src="layout_regions.png" width="400">
 
 ## Statistics
 
