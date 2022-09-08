@@ -1,0 +1,131 @@
+###################
+#  Regions (All)  #
+###################
+
+| Region type                      | Count   |
+|:---------------------------------|:--------|
+| NumberingZone:textNumber         | 688     |
+| MainZone:commentary              | 361     |
+| RunningTitleZone                 | 331     |
+| NumberingZone:pageNumber         | 330     |
+| MainZone:primaryText             | 256     |
+| MarginTextZone:criticalApparatus | 91      |
+| CustomZone:other                 | 63      |
+| MarginTextZone:footnote          | 47      |
+| MarginTextZone:printedNote       | 42      |
+| MainZone:introduction            | 38      |
+| MainZone:index                   | 34      |
+| TitlePageZone                    | 26      |
+| MainZone:preface                 | 26      |
+| MainZone:appendix                | 24      |
+| MainZone:translation             | 15      |
+| MarginTextZone:handwrittenNote   | 12      |
+| MainZone:ToC                     | 2       |
+| -----                            | -----   |
+| All                              | 2386    |
+
+#########################
+#  Regions (Directory)  #
+#########################
+
+
+| Directory                        | Region type                      | Count   |
+|:---------------------------------|:---------------------------------|:--------|
+| ./data/Wecklein1894              | TitlePageZone                    | 3       |
+|                                  | RunningTitleZone                 | 37      |
+|                                  | NumberingZone:textNumber         | 106     |
+|                                  | NumberingZone:pageNumber         | 39      |
+|                                  | MarginTextZone:footnote          | 2       |
+|                                  | MainZone:primaryText             | 41      |
+|                                  | MainZone:introduction            | 3       |
+|                                  | MainZone:commentary              | 35      |
+|                                  | MainZone:appendix                | 2       |
+|                                  | CustomZone:other                 | 9       |
+| ./data/annalsoftacitusp00taci    | TitlePageZone                    | 2       |
+|                                  | RunningTitleZone                 | 37      |
+|                                  | NumberingZone:textNumber         | 103     |
+|                                  | NumberingZone:pageNumber         | 37      |
+|                                  | MarginTextZone:printedNote       | 29      |
+|                                  | MarginTextZone:footnote          | 8       |
+|                                  | MarginTextZone:criticalApparatus | 30      |
+|                                  | MainZone:primaryText             | 31      |
+|                                  | MainZone:preface                 | 2       |
+|                                  | MainZone:introduction            | 3       |
+|                                  | MainZone:index                   | 10      |
+|                                  | MainZone:commentary              | 60      |
+|                                  | CustomZone:other                 | 3       |
+| ./data/bsb10234118               | TitlePageZone                    | 9       |
+|                                  | RunningTitleZone                 | 46      |
+|                                  | NumberingZone:textNumber         | 179     |
+|                                  | NumberingZone:pageNumber         | 48      |
+|                                  | MarginTextZone:footnote          | 13      |
+|                                  | MainZone:primaryText             | 67      |
+|                                  | MainZone:preface                 | 6       |
+|                                  | MainZone:index                   | 12      |
+|                                  | MainZone:commentary              | 20      |
+|                                  | CustomZone:other                 | 11      |
+| ./data/cu31924087948174          | TitlePageZone                    | 2       |
+|                                  | RunningTitleZone                 | 39      |
+|                                  | NumberingZone:textNumber         | 73      |
+|                                  | NumberingZone:pageNumber         | 39      |
+|                                  | MarginTextZone:printedNote       | 2       |
+|                                  | MarginTextZone:footnote          | 11      |
+|                                  | MarginTextZone:criticalApparatus | 26      |
+|                                  | MainZone:primaryText             | 26      |
+|                                  | MainZone:preface                 | 8       |
+|                                  | MainZone:introduction            | 8       |
+|                                  | MainZone:commentary              | 52      |
+|                                  | CustomZone:other                 | 16      |
+| ./data/pvergiliusmaroa00virggoog | TitlePageZone                    | 3       |
+|                                  | RunningTitleZone                 | 38      |
+|                                  | NumberingZone:textNumber         | 72      |
+|                                  | NumberingZone:pageNumber         | 35      |
+|                                  | MarginTextZone:printedNote       | 2       |
+|                                  | MarginTextZone:footnote          | 2       |
+|                                  | MarginTextZone:criticalApparatus | 10      |
+|                                  | MainZone:translation             | 5       |
+|                                  | MainZone:primaryText             | 9       |
+|                                  | MainZone:preface                 | 2       |
+|                                  | MainZone:introduction            | 2       |
+|                                  | MainZone:index                   | 4       |
+|                                  | MainZone:commentary              | 16      |
+|                                  | MainZone:appendix                | 2       |
+|                                  | MainZone:ToC                     | 1       |
+|                                  | CustomZone:other                 | 3       |
+| ./data/sophoclesplaysa05campgoog | TitlePageZone                    | 3       |
+|                                  | RunningTitleZone                 | 40      |
+|                                  | NumberingZone:textNumber         | 48      |
+|                                  | NumberingZone:pageNumber         | 39      |
+|                                  | MarginTextZone:printedNote       | 9       |
+|                                  | MarginTextZone:handwrittenNote   | 12      |
+|                                  | MarginTextZone:footnote          | 8       |
+|                                  | MarginTextZone:criticalApparatus | 25      |
+|                                  | MainZone:translation             | 10      |
+|                                  | MainZone:primaryText             | 18      |
+|                                  | MainZone:introduction            | 8       |
+|                                  | MainZone:index                   | 8       |
+|                                  | MainZone:commentary              | 50      |
+|                                  | MainZone:appendix                | 3       |
+|                                  | MainZone:ToC                     | 1       |
+|                                  | CustomZone:other                 | 12      |
+| ./data/sophokle1v3soph           | TitlePageZone                    | 1       |
+|                                  | RunningTitleZone                 | 57      |
+|                                  | NumberingZone:textNumber         | 70      |
+|                                  | NumberingZone:pageNumber         | 56      |
+|                                  | MarginTextZone:footnote          | 3       |
+|                                  | MainZone:primaryText             | 42      |
+|                                  | MainZone:preface                 | 6       |
+|                                  | MainZone:introduction            | 14      |
+|                                  | MainZone:commentary              | 84      |
+|                                  | CustomZone:other                 | 9       |
+| ./data/thukydides02thuc          | TitlePageZone                    | 3       |
+|                                  | RunningTitleZone                 | 37      |
+|                                  | NumberingZone:textNumber         | 37      |
+|                                  | NumberingZone:pageNumber         | 37      |
+|                                  | MainZone:primaryText             | 22      |
+|                                  | MainZone:preface                 | 2       |
+|                                  | MainZone:commentary              | 44      |
+|                                  | MainZone:appendix                | 17      |
+| -----                            | -----                            | -----   |
+| All                              | All                              | 2386    |
+
