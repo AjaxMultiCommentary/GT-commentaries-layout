@@ -45,11 +45,11 @@ volume:
 - metric: characters
   count: 0
 - metric: files
-  count: 40
+  count: 371
 - metric: lines
   count: 0
 - metric: regions
-  count: 206
+  count: 2386
 transcription-guidelines: SegmOnto guidelines (v. 0.9)
 characters:
   mode: NFD
