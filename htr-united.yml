@@ -18,15 +18,16 @@ authors:
   roles:
   - transcriber
 institutions: []
-description: TODO
+description: 'This dataset contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). Pages were annotated according to a taxonomy mapped to the SegmOnto controlled vocabulary.'
 project-name: Ajax Multi-Commentary
+project-website: https://github.com/AjaxMultiCommentary
 language:
 - eng
 - deu
 - ita
 - fra
 - lat
-production-software: Kraken + VIA
+production-software: Kraken + VGG Image Annotator (VIA)
 script:
 - iso: Latn
 - iso: Grek
