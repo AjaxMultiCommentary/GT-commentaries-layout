@@ -4,7 +4,7 @@
 
 ## Description
 
-This dataset contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). 
+GT4HistCommentOLR contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). 
 
 ⚠️ **NB**: this dataset contains exclusively *layout* annotations. A [separate dataset with OCR groundtruth data](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR) exists for classical commentaries, but sources and annotated pages differ between the two.
 
@@ -35,6 +35,9 @@ If you use this dataset in your research, please cite the following publication:
 
 (TODO: coming soon)
 
+## License
+
+This dataset is released under a Creative Commons Attribution license ([CC BY](./LICENSE)).
 
 ## Acknowledgements
 
