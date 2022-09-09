@@ -2,19 +2,19 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: GT4HistCommentOLR
 url: https://github.com/AjaxMultiCommentary/GT-commentaries-OLR
 authors:
-- name: Romanello
-  surname: Matteo
+- name: Matteo
+  surname: Romanello
   orcid: 0000-0002-7406-6286
   roles:
   - project-manager
-- name: Najem-Meyer
-  surname: Sven
+- name: Sven
+  surname: Najem-Meyer
   orcid: 0000-0002-3661-4579
   roles:
   - transcriber
   - quality-control
-- name: Amaya
-  surname: Carla
+- name: Carla
+  surname: Amaya
   roles:
   - transcriber
 institutions: []
