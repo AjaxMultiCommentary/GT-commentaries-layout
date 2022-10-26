@@ -1,10 +1,10 @@
-# OLR Ground Truth for Historical Commentaries
+# Layout Ground Truth for Historical Commentaries
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![files badge](badges/files.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![characters badge](badges/characters.svg) 
 
 ## Description
 
-GT4HistCommentOLR contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). 
+GT4HistCommentLayout contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). 
 
 ⚠️ **NB**: this dataset contains exclusively *layout* annotations. A [separate dataset with OCR groundtruth data](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR) exists for classical commentaries, but sources and annotated pages differ between the two.
 
@@ -33,7 +33,16 @@ Detailed statistics about the annotated dataset can be found in the [`stats.txt`
 
 If you use this dataset in your research, please cite the following publication:
 
-(TODO: coming soon)
+```
+@inproceedings{najem-meyer_page-layout-analysis_2022,
+  title = {Page {{Layout Analysis}} of {{Text-heavy Historical Documents}}: A {{Comparison}} of {{Textual}} and {{Visual Approaches}}},
+  booktitle = {Proceedings of the {{Conference}} on {{Computational Humanities Research}} 2022},
+  author = {{Najem-Meyer}, Sven and Romanello, Matteo},
+  year = {2022},
+  publisher = {{CEUR-WS}},
+  address = {{Antwerp}}
+}
+```
 
 ## License
 
