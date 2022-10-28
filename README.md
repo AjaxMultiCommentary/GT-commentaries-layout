@@ -1,6 +1,7 @@
 # Layout Ground Truth for Historical Commentaries
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![files badge](badges/files.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![characters badge](badges/characters.svg) 
+[![HTR United Workflow](https://github.com/AjaxMultiCommentary/GT-commentaries-layout/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/AjaxMultiCommentary/GT-commentaries-layout/actions/workflows/htr-united-workflows.yml)
 
 ## Description
 
