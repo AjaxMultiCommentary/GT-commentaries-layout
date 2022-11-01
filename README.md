@@ -7,6 +7,19 @@
 
 GT4HistCommentLayout contains layout annotations for ca. 370 pages sampled from 8 public domain classical commentaries, published in the 19th century in English, German and Latin. The commentaries concern Ancient Greek and Latin works from prose and poetry (caveat: AGreek poetry is slightly over-represented). 
 
+The dataset comes in two formats: `alto_xml` and `json` containing the same information. For each format, there is one file per page (named after the image's id). Each json is single list of region-dictionnaries, like so: 
+
+```python
+[
+  # The first region : 
+  {"label": "MainZone:primaryText", # The segmonto-style label of the region
+   "bbox": [ [100, 100], [300, 300] ] # The region's bbox in xyxy format (upperleft x-y, bottomright x-y)
+  },
+  # The second region:
+  # ...
+] 
+```
+
 ⚠️ **NB**: this dataset contains exclusively *layout* annotations. A [separate dataset with OCR groundtruth data](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR) exists for classical commentaries, but sources and annotated pages differ between the two.
 
 An example of annotated commentary page is shown in the image below. Pages were annotated according to a taxonomy mapped to the [SegmOnto](https://segmonto.github.io/) controlled vocabulary.
