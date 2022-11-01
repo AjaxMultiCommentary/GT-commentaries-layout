@@ -1,0 +1,119 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                896,
+                234
+            ],
+            [
+                1064,
+                276
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1805,
+                222
+            ],
+            [
+                1869,
+                271
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                89,
+                355
+            ],
+            [
+                1487,
+                2478
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1909,
+                369
+            ],
+            [
+                1981,
+                410
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1912,
+                967
+            ],
+            [
+                1986,
+                1007
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1918,
+                1735
+            ],
+            [
+                1990,
+                1775
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1919,
+                2420
+            ],
+            [
+                1994,
+                2460
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                100,
+                2562
+            ],
+            [
+                963,
+                3361
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1032,
+                2560
+            ],
+            [
+                1899,
+                3359
+            ]
+        ]
+    }
+]

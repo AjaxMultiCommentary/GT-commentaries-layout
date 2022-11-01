@@ -1,0 +1,119 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                639,
+                87
+            ],
+            [
+                757,
+                124
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1232,
+                108
+            ],
+            [
+                1272,
+                140
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                116,
+                181
+            ],
+            [
+                943,
+                876
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                1203,
+                317
+            ],
+            [
+                1273,
+                357
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1218,
+                388
+            ],
+            [
+                1274,
+                412
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1213,
+                853
+            ],
+            [
+                1269,
+                881
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                115,
+                936
+            ],
+            [
+                1273,
+                1032
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                106,
+                1092
+            ],
+            [
+                672,
+                2179
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                713,
+                1096
+            ],
+            [
+                1270,
+                2171
+            ]
+        ]
+    }
+]

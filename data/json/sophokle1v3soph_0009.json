@@ -1,0 +1,28 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                132,
+                680
+            ],
+            [
+                1920,
+                762
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:preface",
+        "bbox": [
+            [
+                129,
+                966
+            ],
+            [
+                1927,
+                3405
+            ]
+        ]
+    }
+]

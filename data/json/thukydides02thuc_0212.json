@@ -1,0 +1,41 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                257,
+                197
+            ],
+            [
+                361,
+                246
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                1041,
+                198
+            ],
+            [
+                1285,
+                243
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:appendix",
+        "bbox": [
+            [
+                249,
+                341
+            ],
+            [
+                2084,
+                3393
+            ]
+        ]
+    }
+]

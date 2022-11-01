@@ -1,0 +1,67 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                183,
+                561
+            ],
+            [
+                1070,
+                670
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                176,
+                787
+            ],
+            [
+                1093,
+                2133
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1144,
+                1180
+            ],
+            [
+                1164,
+                1210
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1120,
+                1477
+            ],
+            [
+                1164,
+                1505
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1120,
+                1854
+            ],
+            [
+                1162,
+                1885
+            ]
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                399,
+                166
+            ],
+            [
+                1011,
+                202
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1179,
+                169
+            ],
+            [
+                1248,
+                203
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                141,
+                250
+            ],
+            [
+                1248,
+                2142
+            ]
+        ]
+    }
+]

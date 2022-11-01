@@ -1,0 +1,80 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                1056,
+                372
+            ],
+            [
+                2023,
+                450
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                2688,
+                369
+            ],
+            [
+                2746,
+                430
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:introduction",
+        "bbox": [
+            [
+                335,
+                526
+            ],
+            [
+                2757,
+                3716
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                342,
+                3846
+            ],
+            [
+                2745,
+                4490
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                521,
+                4525
+            ],
+            [
+                823,
+                4591
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                2541,
+                4527
+            ],
+            [
+                2573,
+                4569
+            ]
+        ]
+    }
+]

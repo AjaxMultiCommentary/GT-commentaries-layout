@@ -1,0 +1,80 @@
+[
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                105,
+                356
+            ],
+            [
+                161,
+                387
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                112,
+                1649
+            ],
+            [
+                166,
+                1683
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                112,
+                2108
+            ],
+            [
+                165,
+                2142
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                173,
+                285
+            ],
+            [
+                1066,
+                2173
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1096,
+                1312
+            ],
+            [
+                1167,
+                1341
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1098,
+                1777
+            ],
+            [
+                1168,
+                1808
+            ]
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                391,
+                838
+            ],
+            [
+                842,
+                873
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                89,
+                998
+            ],
+            [
+                1154,
+                2168
+            ]
+        ]
+    }
+]

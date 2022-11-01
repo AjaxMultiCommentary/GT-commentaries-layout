@@ -1,0 +1,119 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                394,
+                388
+            ],
+            [
+                475,
+                450
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                1284,
+                364
+            ],
+            [
+                1892,
+                432
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                588,
+                532
+            ],
+            [
+                2246,
+                2138
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2662,
+                848
+            ],
+            [
+                2791,
+                920
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2667,
+                1336
+            ],
+            [
+                2804,
+                1405
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2669,
+                1841
+            ],
+            [
+                2799,
+                1928
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                408,
+                2213
+            ],
+            [
+                2814,
+                2731
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                417,
+                2925
+            ],
+            [
+                1583,
+                4484
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1662,
+                2928
+            ],
+            [
+                2829,
+                4486
+            ]
+        ]
+    }
+]

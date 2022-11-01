@@ -1,0 +1,41 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                1105,
+                440
+            ],
+            [
+                1695,
+                560
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                317,
+                609
+            ],
+            [
+                2479,
+                693
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:appendix",
+        "bbox": [
+            [
+                294,
+                847
+            ],
+            [
+                2531,
+                3859
+            ]
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                552,
+                166
+            ],
+            [
+                1043,
+                203
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                253,
+                325
+            ],
+            [
+                324,
+                357
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                259,
+                1210
+            ],
+            [
+                332,
+                1242
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                262,
+                1798
+            ],
+            [
+                333,
+                1831
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                352,
+                252
+            ],
+            [
+                1304,
+                2139
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1277,
+                313
+            ],
+            [
+                1348,
+                346
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1278,
+                609
+            ],
+            [
+                1347,
+                641
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1277,
+                906
+            ],
+            [
+                1347,
+                938
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1278,
+                1200
+            ],
+            [
+                1346,
+                1233
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1280,
+                1497
+            ],
+            [
+                1348,
+                1529
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1281,
+                1792
+            ],
+            [
+                1347,
+                1823
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1282,
+                2086
+            ],
+            [
+                1350,
+                2117
+            ]
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                226,
+                185
+            ],
+            [
+                304,
+                218
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:preface",
+        "bbox": [
+            [
+                218,
+                268
+            ],
+            [
+                1332,
+                2132
+            ]
+        ]
+    }
+]

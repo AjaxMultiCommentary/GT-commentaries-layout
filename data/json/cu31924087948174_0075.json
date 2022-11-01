@@ -1,0 +1,106 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                113,
+                98
+            ],
+            [
+                158,
+                130
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                539,
+                83
+            ],
+            [
+                855,
+                120
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                114,
+                188
+            ],
+            [
+                1061,
+                707
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1222,
+                180
+            ],
+            [
+                1279,
+                216
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1221,
+                419
+            ],
+            [
+                1278,
+                454
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                114,
+                750
+            ],
+            [
+                1275,
+                909
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                115,
+                970
+            ],
+            [
+                675,
+                2187
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                720,
+                967
+            ],
+            [
+                1284,
+                2195
+            ]
+        ]
+    }
+]

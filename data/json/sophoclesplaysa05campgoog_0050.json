@@ -1,0 +1,54 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                442,
+                388
+            ],
+            [
+                2463,
+                451
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:introduction",
+        "bbox": [
+            [
+                301,
+                544
+            ],
+            [
+                2719,
+                3876
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:printedNote",
+        "bbox": [
+            [
+                2744,
+                553
+            ],
+            [
+                2997,
+                799
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                303,
+                4024
+            ],
+            [
+                2704,
+                4492
+            ]
+        ]
+    }
+]

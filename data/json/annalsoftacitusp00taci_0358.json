@@ -1,0 +1,119 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                257,
+                174
+            ],
+            [
+                334,
+                211
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                588,
+                163
+            ],
+            [
+                1498,
+                199
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:printedNote",
+        "bbox": [
+            [
+                1579,
+                170
+            ],
+            [
+                1834,
+                210
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                197,
+                909
+            ],
+            [
+                234,
+                929
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                218,
+                555
+            ],
+            [
+                233,
+                585
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                251,
+                270
+            ],
+            [
+                1839,
+                1077
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                252,
+                1131
+            ],
+            [
+                1838,
+                1213
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                241,
+                1279
+            ],
+            [
+                1034,
+                2909
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1066,
+                1277
+            ],
+            [
+                1840,
+                2917
+            ]
+        ]
+    }
+]

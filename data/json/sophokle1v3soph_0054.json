@@ -1,0 +1,54 @@
+[
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                152,
+                337
+            ],
+            [
+                1558,
+                2508
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                153,
+                755
+            ],
+            [
+                201,
+                795
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                205,
+                2565
+            ],
+            [
+                1063,
+                3286
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1110,
+                2559
+            ],
+            [
+                1993,
+                3301
+            ]
+        ]
+    }
+]

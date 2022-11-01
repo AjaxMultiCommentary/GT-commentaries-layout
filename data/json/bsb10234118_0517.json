@@ -1,0 +1,28 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                371,
+                183
+            ],
+            [
+                1014,
+                217
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1198,
+                187
+            ],
+            [
+                1269,
+                219
+            ]
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                239,
+                189
+            ],
+            [
+                267,
+                237
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                983,
+                186
+            ],
+            [
+                1302,
+                228
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                164,
+                872
+            ],
+            [
+                186,
+                898
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                170,
+                345
+            ],
+            [
+                195,
+                384
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                224,
+                324
+            ],
+            [
+                2055,
+                1174
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2093,
+                685
+            ],
+            [
+                2141,
+                726
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2093,
+                1117
+            ],
+            [
+                2139,
+                1159
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                224,
+                1273
+            ],
+            [
+                1099,
+                3351
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1181,
+                1274
+            ],
+            [
+                2060,
+                3349
+            ]
+        ]
+    }
+]

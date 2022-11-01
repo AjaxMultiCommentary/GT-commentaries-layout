@@ -1,0 +1,54 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                258,
+                172
+            ],
+            [
+                324,
+                206
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                623,
+                168
+            ],
+            [
+                996,
+                201
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                258,
+                237
+            ],
+            [
+                1373,
+                1849
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                274,
+                1930
+            ],
+            [
+                1373,
+                2142
+            ]
+        ]
+    }
+]

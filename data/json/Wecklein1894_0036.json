@@ -1,0 +1,132 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                1288,
+                125
+            ],
+            [
+                1490,
+                175
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                2433,
+                122
+            ],
+            [
+                2512,
+                186
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                608,
+                295
+            ],
+            [
+                2318,
+                1965
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2376,
+                296
+            ],
+            [
+                2508,
+                357
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2385,
+                822
+            ],
+            [
+                2512,
+                882
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2389,
+                1350
+            ],
+            [
+                2515,
+                1411
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2391,
+                1879
+            ],
+            [
+                2517,
+                1940
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                295,
+                2154
+            ],
+            [
+                2533,
+                4096
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                362,
+                4110
+            ],
+            [
+                1144,
+                4162
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                2164,
+                4118
+            ],
+            [
+                2199,
+                4177
+            ]
+        ]
+    }
+]

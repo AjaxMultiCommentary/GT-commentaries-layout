@@ -1,0 +1,119 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                391,
+                409
+            ],
+            [
+                872,
+                491
+            ]
+        ]
+    },
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                227,
+                573
+            ],
+            [
+                1020,
+                688
+            ]
+        ]
+    },
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                125,
+                905
+            ],
+            [
+                1149,
+                947
+            ]
+        ]
+    },
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                267,
+                1036
+            ],
+            [
+                978,
+                1076
+            ]
+        ]
+    },
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                441,
+                1325
+            ],
+            [
+                803,
+                1358
+            ]
+        ]
+    },
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                354,
+                1459
+            ],
+            [
+                888,
+                1482
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                499,
+                1832
+            ],
+            [
+                730,
+                1868
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                302,
+                1911
+            ],
+            [
+                924,
+                1945
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                481,
+                2000
+            ],
+            [
+                753,
+                2023
+            ]
+        ]
+    }
+]

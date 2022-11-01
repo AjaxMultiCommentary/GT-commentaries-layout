@@ -1,0 +1,41 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                918,
+                616
+            ],
+            [
+                1886,
+                680
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                298,
+                813
+            ],
+            [
+                2529,
+                2388
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                297,
+                2541
+            ],
+            [
+                2526,
+                3682
+            ]
+        ]
+    }
+]

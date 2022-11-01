@@ -1,0 +1,41 @@
+[
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                496,
+                1091
+            ],
+            [
+                841,
+                1353
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                106,
+                2125
+            ],
+            [
+                355,
+                2162
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                972,
+                2111
+            ],
+            [
+                991,
+                2147
+            ]
+        ]
+    }
+]

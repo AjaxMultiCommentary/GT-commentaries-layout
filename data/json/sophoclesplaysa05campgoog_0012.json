@@ -1,0 +1,119 @@
+[
+    {
+        "label": "TitlePageZone",
+        "bbox": [
+            [
+                1212,
+                829
+            ],
+            [
+                1804,
+                895
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:ToC",
+        "bbox": [
+            [
+                296,
+                1109
+            ],
+            [
+                2615,
+                4297
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2659,
+                1112
+            ],
+            [
+                2715,
+                1171
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2646,
+                3085
+            ],
+            [
+                2704,
+                3143
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2645,
+                3546
+            ],
+            [
+                2703,
+                3602
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2660,
+                3808
+            ],
+            [
+                2692,
+                3864
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2627,
+                3958
+            ],
+            [
+                2697,
+                3997
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2583,
+                4100
+            ],
+            [
+                2693,
+                4156
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2578,
+                4254
+            ],
+            [
+                2685,
+                4307
+            ]
+        ]
+    }
+]

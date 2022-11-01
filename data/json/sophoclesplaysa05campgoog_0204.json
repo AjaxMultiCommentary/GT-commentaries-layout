@@ -1,0 +1,119 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                587,
+                361
+            ],
+            [
+                709,
+                422
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                1480,
+                341
+            ],
+            [
+                2087,
+                408
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                583,
+                503
+            ],
+            [
+                2605,
+                1907
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2842,
+                727
+            ],
+            [
+                2978,
+                797
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2846,
+                1229
+            ],
+            [
+                2988,
+                1299
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                2848,
+                1731
+            ],
+            [
+                2983,
+                1804
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                586,
+                2000
+            ],
+            [
+                2990,
+                2326
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                590,
+                2516
+            ],
+            [
+                1752,
+                4466
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1830,
+                2518
+            ],
+            [
+                3004,
+                4450
+            ]
+        ]
+    }
+]

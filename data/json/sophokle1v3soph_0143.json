@@ -1,0 +1,119 @@
+[
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                896,
+                224
+            ],
+            [
+                1066,
+                267
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1766,
+                221
+            ],
+            [
+                1865,
+                274
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                64,
+                337
+            ],
+            [
+                1520,
+                1937
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1875,
+                622
+            ],
+            [
+                1974,
+                662
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1870,
+                1127
+            ],
+            [
+                1968,
+                1166
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1870,
+                1630
+            ],
+            [
+                1963,
+                1670
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                56,
+                2021
+            ],
+            [
+                926,
+                3321
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                994,
+                2018
+            ],
+            [
+                1861,
+                3320
+            ]
+        ]
+    },
+    {
+        "label": "CustomZone:other",
+        "bbox": [
+            [
+                116,
+                3342
+            ],
+            [
+                544,
+                3386
+            ]
+        ]
+    }
+]

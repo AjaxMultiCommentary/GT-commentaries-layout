@@ -1,0 +1,119 @@
+[
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                70,
+                666
+            ],
+            [
+                96,
+                697
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                71,
+                801
+            ],
+            [
+                95,
+                832
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                71,
+                873
+            ],
+            [
+                95,
+                904
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                72,
+                321
+            ],
+            [
+                96,
+                353
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                115,
+                240
+            ],
+            [
+                1747,
+                1193
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1732,
+                529
+            ],
+            [
+                1747,
+                556
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                738,
+                1247
+            ],
+            [
+                1100,
+                1289
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                111,
+                1347
+            ],
+            [
+                882,
+                2917
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                940,
+                1345
+            ],
+            [
+                1712,
+                2915
+            ]
+        ]
+    }
+]

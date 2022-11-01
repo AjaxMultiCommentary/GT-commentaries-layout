@@ -1,0 +1,106 @@
+[
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                127,
+                180
+            ],
+            [
+                1138,
+                1053
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1229,
+                210
+            ],
+            [
+                1287,
+                237
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1227,
+                442
+            ],
+            [
+                1284,
+                470
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1222,
+                736
+            ],
+            [
+                1280,
+                762
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                1221,
+                1025
+            ],
+            [
+                1277,
+                1052
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                122,
+                1103
+            ],
+            [
+                1277,
+                1302
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                112,
+                1357
+            ],
+            [
+                678,
+                2178
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                719,
+                1358
+            ],
+            [
+                1275,
+                2174
+            ]
+        ]
+    }
+]

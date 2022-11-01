@@ -1,0 +1,54 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1803,
+                232
+            ],
+            [
+                1870,
+                284
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                67,
+                381
+            ],
+            [
+                1479,
+                2055
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                68,
+                2108
+            ],
+            [
+                933,
+                3366
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                1001,
+                2112
+            ],
+            [
+                1877,
+                3356
+            ]
+        ]
+    }
+]

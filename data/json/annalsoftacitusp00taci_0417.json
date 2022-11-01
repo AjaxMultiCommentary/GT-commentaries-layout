@@ -1,0 +1,132 @@
+[
+    {
+        "label": "MarginTextZone:printedNote",
+        "bbox": [
+            [
+                145,
+                163
+            ],
+            [
+                326,
+                203
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                628,
+                156
+            ],
+            [
+                1234,
+                203
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                1657,
+                167
+            ],
+            [
+                1730,
+                203
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                97,
+                272
+            ],
+            [
+                124,
+                304
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                101,
+                478
+            ],
+            [
+                124,
+                509
+            ]
+        ]
+    },
+    {
+        "label": "NumberingZone:textNumber",
+        "bbox": [
+            [
+                102,
+                961
+            ],
+            [
+                127,
+                993
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:primaryText",
+        "bbox": [
+            [
+                143,
+                264
+            ],
+            [
+                1738,
+                1211
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:criticalApparatus",
+        "bbox": [
+            [
+                510,
+                1283
+            ],
+            [
+                1381,
+                1324
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                150,
+                1408
+            ],
+            [
+                925,
+                2918
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:commentary",
+        "bbox": [
+            [
+                976,
+                1403
+            ],
+            [
+                1755,
+                2915
+            ]
+        ]
+    }
+]

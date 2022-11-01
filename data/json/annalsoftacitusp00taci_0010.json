@@ -1,0 +1,67 @@
+[
+    {
+        "label": "NumberingZone:pageNumber",
+        "bbox": [
+            [
+                271,
+                144
+            ],
+            [
+                315,
+                187
+            ]
+        ]
+    },
+    {
+        "label": "RunningTitleZone",
+        "bbox": [
+            [
+                536,
+                142
+            ],
+            [
+                1586,
+                181
+            ]
+        ]
+    },
+    {
+        "label": "MainZone:preface",
+        "bbox": [
+            [
+                268,
+                259
+            ],
+            [
+                1866,
+                2649
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                273,
+                2698
+            ],
+            [
+                1035,
+                2884
+            ]
+        ]
+    },
+    {
+        "label": "MarginTextZone:footnote",
+        "bbox": [
+            [
+                1098,
+                2696
+            ],
+            [
+                1861,
+                2836
+            ]
+        ]
+    }
+]
