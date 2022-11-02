@@ -1,5 +1,5 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: GT4HistCommentOLR
+title: 'GT4HistCommentLayout: Layout Ground Truth for Historical Commentaries' 
 url: https://github.com/AjaxMultiCommentary/GT-commentaries-OLR
 authors:
 - name: Matteo
@@ -17,20 +17,18 @@ authors:
   surname: Amaya
   roles:
   - transcriber
-institutions: []
-description: 'GT4HistCommentOLR contains layout annotations for ca. 370 pages sampled
+description: 'This dataset contains layout annotations for ca. 370 pages sampled
   from 8 public domain classical commentaries, published in the 19th century in English,
   German and Latin. The commentaries concern Ancient Greek and Latin works from prose
   and poetry (caveat: AGreek poetry is slightly over-represented). Pages were annotated
   according to a taxonomy mapped to the SegmOnto controlled vocabulary.'
 project-name: Ajax Multi-Commentary
-project-website: https://github.com/AjaxMultiCommentary
+project-website: https://mromanello.github.io/ajax-multi-commentary/
 language:
 - eng
 - deu
-- ita
-- fra
 - lat
+- grc
 production-software: Kraken + VGG Image Annotator (VIA)
 script:
 - iso: Latn
@@ -56,6 +54,7 @@ volume:
 - metric: regions
   count: 2386
 transcription-guidelines: SegmOnto guidelines (v. 0.9)
+citation-file-link: https://github.com/AjaxMultiCommentary/GT-commentaries-layout/blob/master/CITATION.cff
 characters:
   mode: NFD
   members: []
